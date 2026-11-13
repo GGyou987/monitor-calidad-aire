@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+pandas
+ollama
+sounddevice
+faster-whisper
+pyttsx3
