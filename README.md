@@ -3,7 +3,7 @@
 Este proyecto simula un sistema de monitoreo de gases (COV, CO, CO2, PM2.5). Utiliza el algoritmo PCA (Análisis de Componentes Principales) para detectar fallos en los sensores y cuenta con un asistente de Inteligencia Artificial que te responde por voz sobre el histórico de las últimas 24 horas.
 
 ## Capturas de pantalla
-*(Aquí debes poner la imagen que me mostraste, la de las 4 gráficas. Ver para creer)*
+<img width="1917" height="952" alt="imagen" src="https://github.com/user-attachments/assets/c1b4959d-b005-4d02-bbfb-710bec76dce6" />
 
 ## Requisitos previos (¡MUY IMPORTANTE!)
 Antes de empezar, el usuario debe tener instalado:
